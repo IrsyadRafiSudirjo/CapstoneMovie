@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CapstoneMovie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_name">movie_name</string>
+    <string name="description">Description</string>
+    <string name="description_content">Description_content</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="title_favorite">favorite</string>
+</resources>

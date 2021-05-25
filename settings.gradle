@@ -1,0 +1,4 @@
+rootProject.name = "CapstoneMovie"
+include ':app'
+include ':core'
+include ':favorite'
